@@ -1,7 +1,7 @@
 ### Hi there 👋 , My name is Vihanga and and I'm a FrontEnd Developer !
 
 
-![Got from netbramha.com](https://netbramha.com/wp-content/uploads/2016/12/front-end-developers-openings-1.gif width="40" height="40")
+<img src="https://netbramha.com/wp-content/uploads/2016/12/front-end-developers-openings-1.gif" width="400px" alt="Got from netbramha.com">
 
 <!--
 **VihangaN/VihangaN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

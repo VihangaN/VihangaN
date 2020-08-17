@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 , My name is Vihanga and and I'm a FrontEnd Developer !
 
 <!--
 **VihangaN/VihangaN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

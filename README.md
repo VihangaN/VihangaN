@@ -1,4 +1,5 @@
-### Hi there 👋 , My name is Vihanga and and I'm a FrontEnd Developer !
+### Hi there 👋 ,
+### My name is Vihanga and and I'm a FrontEnd Developer !
 
 
 <img src="https://netbramha.com/wp-content/uploads/2016/12/front-end-developers-openings-1.gif" width="400px" alt="Got from netbramha.com">

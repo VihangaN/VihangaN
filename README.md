@@ -6,12 +6,7 @@
 
 
 
-<img src="https://netbramha.com/wp-content/uploads/2016/12/front-end-developers-openings-1.gif" style="zoom:50%;" />
+<img src="https://netbramha.com/wp-content/uploads/2016/12/front-end-developers-openings-1.gif" width="400px"/>
 
-
-
-
-
-<H3 style="text-align:center; font-size:20px;"> 
-</h3>
+<p align="left">
 

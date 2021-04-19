@@ -6,7 +6,7 @@
 </p>
 
 
-
+<br/>
 <p align="center">
 <img src="https://raw.githubusercontent.com/VihangaN/VihangaN/master/img/glassmorphicicon.png" width="200px"/>
 </div>

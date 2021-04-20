@@ -8,7 +8,7 @@
 
 <br/>
 <p align="center">
-<img src="https://raw.githubusercontent.com/VihangaN/VihangaN/master/img/glassmorphicicon.png" width="200px"/>
+<img src="img/me.svg" width="200px"/>
 </div>
 </p>
 </br>

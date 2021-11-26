@@ -8,7 +8,6 @@
 
 <br/>
 <p align="center">
-<img src="img/me.svg" width="200px"/>
 </div>
 </p>
 </br>

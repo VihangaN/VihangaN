@@ -1,4 +1,6 @@
+<div align="center">
 <img src="https://raw.githubusercontent.com/VihangaN/VihangaN/master/img/hi-there-minions.gif"/>
+</div>
 <p align="justify">
 <H3 align="center">Hi there 👋 ,
 </p>

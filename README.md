@@ -1,14 +1,10 @@
-
+<img src="https://raw.githubusercontent.com/VihangaN/VihangaN/master/img/hi-there-minions.gif"/>
 <p align="justify">
 <H3 align="center">Hi there 👋 ,
 </p>
-<H4 align="center">My name is Vihanga and I'm a FrontEnd Developer !</h4>
-</p>
-
-
 <br/>
 <p align="center">
-</div>
+I'm a UI/UX Guy from SriLanka .
 </p>
 </br>
 <H5 align="center">Reach me out</h5>

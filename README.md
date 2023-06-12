@@ -6,7 +6,7 @@
 </p>
 <br/>
 <p align="center">
-I'm a UI/UX guy from Sri Lanka.
+I'm a FrontEnd dev from Sri Lanka.
 </p>
 </br>
 <H5 align="center">Reach me out</h5>

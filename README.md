@@ -6,16 +6,20 @@
 </div>
 
 <p align="center">
-<span align="center"><strong> Hi there 👋 , &nbsp;  I'm Vihanga.</strong> </span>
+<span align="center"><strong><b> Hi there 👋 , &nbsp;  I'm Vihanga.</b></strong> </span>
 </p>
 <p align="center">
-<span align="center"><sub>Connecting with the world from Sri Lanka, passionately immersed in frontend development, <br>   
-   crafting stunning UI experiences.</sub> </span>
+<span align="center">
+   <small>
+   Connecting with the world from Sri Lanka, passionately immersed in frontend development, <br>   
+   crafting stunning UI experiences.
+   </small>
+</span>
 </p>
 </br>
 
 <p align="center">
-<span align="center"> <code> Reach out to me </code> </span>
+<span align="center"> <code> Reach out to me  </code> </span>
 </p>
 </br>
 

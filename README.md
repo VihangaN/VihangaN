@@ -1,5 +1,5 @@
 <div style="text-align:center">
-<img align="center" src="https://raw.githubusercontent.com/VihangaN/VihangaN/master/img/intro-banner.gif" width="100%" style="margin:0 auto !important"/>
+<img align="center" src="https://raw.githubusercontent.com/VihangaN/VihangaN/master/img/intro-banner.gif" width="100%" style="transform:scale(.8)"/>
 <div>
 </div>
 <p align="justify">

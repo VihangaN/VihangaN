@@ -1,4 +1,4 @@
-<img align="center" src="https://raw.githubusercontent.com/VihangaN/VihangaN/master/img/intro-banner.gif" width="70%" style="display:block"/>
+<img align="center" src="https://raw.githubusercontent.com/VihangaN/VihangaN/master/img/intro-banner.gif" width="70%" style="margin:0 auto !important"/>
 
 </div>
 <p align="justify">

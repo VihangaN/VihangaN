@@ -6,14 +6,17 @@
 </div>
 
 <p align="center">
-<h3 align="center"> Hi there 👋 , &nbsp;  I'm Vihanga. </h3>
+<span align="center"><strong> Hi there 👋 , &nbsp;  I'm Vihanga.</strong> </span>
 </p>
 <p align="center">
-<h4 align="center">Connecting with the world from Sri Lanka, passionately immersed in frontend development, <br>   
-   crafting stunning UI experiences. </h4>
+<span align="center"><sub>Connecting with the world from Sri Lanka, passionately immersed in frontend development, <br>   
+   crafting stunning UI experiences.</sub> </span>
 </p>
 </br>
-<H5 align="center">Reach out to me </H5>
+
+<p align="center">
+<span align="center"> <code> Reach out to me </code> </span>
+</p>
 </br>
 
 <p align="center">

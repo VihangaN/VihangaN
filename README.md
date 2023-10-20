@@ -26,3 +26,5 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/avnk/" target="_blank"> <img src="https://raw.githubusercontent.com/VihangaN/VihangaN/master/img/linkedin.svg" alt="linkedin" width="30" height="30"/></a> &nbsp; <a href="mailto:hello@vihanga.dev" target="_blank"> <img src="https://raw.githubusercontent.com/VihangaN/VihangaN/master/img/mail.svg" alt="email" width="30" height="30"/> </a> &nbsp;  <a href="https://codepen.io/vihanga" target="_blank"> <img src="https://raw.githubusercontent.com/VihangaN/VihangaN/master/img/codepen.svg" alt="gmail" width="30" height="30"/> </a>
    </p>
+
+[![An image of @avnk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/avnk)](https://holopin.io/@avnk)
